@@ -68,7 +68,7 @@ Declarar la siguiente variable:
 ```
 const listaDeNumeros = [ 43, 11, 18, 46, 44, 37, 42, 29, 9, 3, 37, 0, 40, 10, 38, 34, 25, 40, 4, 32 ];
 ```
-Crear una funcion llamada encontrarPares() que recorre el array recibido por parametros
+Crear una funcion llamada encontrarImpares() que recorre el array recibido por parametros
 
 y retorna un nuevo array compuesto solo por los numeros impares. 
 
